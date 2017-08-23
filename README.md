@@ -10,4 +10,4 @@ eclipse cpp ros style formatter
 3.Click "OK" to import the profile.
 
 You should select the code and then use the quick keyboard "Ctrl+Shift+F" to format the code. 
-Join it!
+Enjoy it!
